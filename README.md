@@ -1,5 +1,6 @@
 # Techbrain.de 2.0
 **Version 1.0.3 vom 27.10.2016**
+
 **Das Theme basiert auf __Graphy__ von WordPress.org**
 ## Beschreibung
 Techbrain.de basiert grundsätzlich auf dem kostenlosen Theme [Graphy][1] von WordPress.org. 70 Prozent des Frontend-Codes sind mittlerweile von mir, da es stark auf meine Bedürfnisse angepasst worden ist.
