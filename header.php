@@ -25,7 +25,6 @@
 <link rel="preconnect" href="//staticxx.facebook.com" />
 <link rel="dns-prefetch" href="//connect.facebook.net" />
 <link rel="preconnect" href="//connect.facebook.net" />
-<link rel="stylesheet" href="<?=auto_version('/wp-content/themes/techbrain/style.css')?>" type="text/css" media="screen" />
 <?php wp_head(); ?>
 </head>
 
